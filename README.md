@@ -11,3 +11,6 @@ As a Data Analyst, my role within the team goes beyond data processing. It also 
 
 # Goal of this project
 This contains the analysis process and result to help the CEO determine whether to enter the brazilian market.
+
+# Original input data
+magist_dump, containing _data.sql_ and _EER Diagram.pdf_.
