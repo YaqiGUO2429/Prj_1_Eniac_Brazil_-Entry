@@ -12,5 +12,17 @@ As a Data Analyst, my role within the team goes beyond data processing. It also 
 # Goal of this project
 This contains the analysis process and result to help the CEO determine whether to enter the brazilian market.
 
-# Original input data
-magist_dump, containing _data.sql_ and _EER Diagram.pdf_.
+# Original input database
+magist_dump, containing _magist_dump.sql_ (SQL Text File) and _EER Diagram.pdf_ (PDF Document).
+
+# How to use this notebook?
+1. Please download the original dataset magist_dump and import to your local MySQL Server.
+2. Please use _magist_ and take a look at _EER Diagram.pdf_ in order to
+3. Please download the uploaded SQL script file: _General Data Exploration_ and run the queries to explore the dataset and get the first image of the basic business performances.
+4.
+
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
+![Tableau](https://img.shields.io/badge/Visualization-Tableau-orange)
+![Presentation](https://img.shields.io/badge/Tool-Presentation-blueviolet)
+![Design Tool](https://img.shields.io/badge/Design-Canva-00c4cc)
+
